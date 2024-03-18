@@ -1,1 +1,1 @@
-
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"RDS","Source":"./RDS","Dir":"RDS"},{"Key":"RDS.vpc","Source":"../VPC-2","Dir":"VPC-2"},{"Key":"ec2","Source":"./EC2","Dir":"EC2"},{"Key":"ec2.vpc1","Source":"./TERRAFORM-MODULES/VPC-1","Dir":""},{"Key":"ec2.vpcsubnet","Source":"../VPC-1","Dir":"VPC-1"},{"Key":"vpc1","Source":"./VPC-1","Dir":"VPC-1"},{"Key":"vpc2","Source":"./VPC-2","Dir":"VPC-2"}]}
